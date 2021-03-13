@@ -1,11 +1,11 @@
-# Put title of your app here
+# Jetpack Compose challenge
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/psanikos/DevChallenge3c/workflows/Check/badge.svg)
 
 
-## :scroll: Description
+## :scroll: Jetpack Compose challenge
 <!--- Describe your app in one or two sentences -->
 
 
